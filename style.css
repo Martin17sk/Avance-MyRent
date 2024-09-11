@@ -56,7 +56,6 @@ button:hover {
     display: flex;
     flex-direction: row;
     gap: 0.313vw;
-    color: white;
 }
 
 input[type="checkbox"] {
